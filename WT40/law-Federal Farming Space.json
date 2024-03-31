@@ -535,11 +535,11 @@
                               "value": "Eco.Gameplay.LegislationSystem.District"
                             },
                             "requiredTag": null,
-                            "internalDescription": "<link=\"view:3826:85552546\"><icon name=\"District\" type=\"\"><color=#BFBE6EFF>Govermint farmland</color></icon></link>",
+                            "internalDescription": "<link=\"view:3826:85552546\"><icon name=\"District\" type=\"\"><color=#BFBE6EFF>Government farmland</color></icon></link>",
                             "entries": [
                               {
                                 "type": "Eco.Gameplay.LegislationSystem.District",
-                                "name": "Govermint farmland",
+                                "name": "Government farmland",
                                 "reference": true
                               }
                             ]
@@ -659,11 +659,11 @@
                               "value": "Eco.Gameplay.LegislationSystem.District"
                             },
                             "requiredTag": null,
-                            "internalDescription": "<link=\"view:3826:85552546\"><icon name=\"District\" type=\"\"><color=#BFBE6EFF>Govermint farmland</color></icon></link>",
+                            "internalDescription": "<link=\"view:3826:85552546\"><icon name=\"District\" type=\"\"><color=#BFBE6EFF>Government farmland</color></icon></link>",
                             "entries": [
                               {
                                 "type": "Eco.Gameplay.LegislationSystem.District",
-                                "name": "Govermint farmland",
+                                "name": "Government farmland",
                                 "reference": true
                               }
                             ]
